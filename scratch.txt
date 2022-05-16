@@ -1,0 +1,13 @@
+scratch.txt
+
+1
+rails new hr
+
+
+
+2
+rails generate controller Welcome index
+
+
+
+3
